@@ -1,1 +1,10 @@
-
+ {
+        "name": "tcratch",
+        
+        "permissions": [
+          "tabs"
+          "Storage"
+        ],
+       
+      }
+      
