@@ -1,6 +1,8 @@
  {
-        "name": "tcratch",
-        
+        "name": "OpenScratchEasily",
+        "icons": { 
+  "128": "main-thumb-t-1800-200-lOn8kKfhqfcTcKdt2GwaLfGnC0jEjHmV.jpeg" 
+},
         "permissions": [
           "tabs"
           "Storage"
