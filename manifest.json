@@ -5,7 +5,7 @@
 },
         "permissions": [
           "tabs"
-          "Storage"
+          
         ],
          "content_scripts": [{
         "js": [ "index.js"],
