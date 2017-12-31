@@ -9,7 +9,6 @@
         ],
          "content_scripts": [{
         "js": [ "index.js"],
-        "css": ["customStyles.css"],
         "matches": ["http://*/*", "https://*/*"]
     }]
 }
